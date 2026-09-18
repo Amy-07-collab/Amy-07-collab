@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Amy-07-collab/Amy-07-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Cybersecurity Banner](https://raw.githubusercontent.com/Amy-07-collab/Amy-07-collab/main/banner.png)
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Hi%2C+I'm+Amy+%F0%9F%91%8B;Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;Learning+SOC+%26+Network+Security;Linux+%7C+Wireshark+%7C+Suricata;Learning.+Practicing.+Growing.)](https://github.com/DenverCoder1/readme-typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## 👩🏽‍💻 About Me
+
+I'm a cybersecurity student building practical skills through
+hands-on labs, networking, Linux, and security tools.
+
+## 🛡️ Cybersecurity Skills
+
+- 🔐 Network Security
+- 🖥️ Linux
+- 🔎 Wireshark
+- 🚨 Suricata
+- 🌐 Networking
+- 🐙 Git & GitHub
+
+## 🚀 Currently Learning
+
+- SOC Operations
+- Threat Detection
+- Network Analysis
+- Incident Response
+
+## 📂 Projects
+
+I'm building hands-on cybersecurity projects and documenting
+my learning journey here on GitHub.
+
+---
+
+### 💙 Learn • Practice • Defend • Grow
+
+</div>
